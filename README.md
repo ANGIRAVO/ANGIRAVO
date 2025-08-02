@@ -1,4 +1,7 @@
-![MasterHead](https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQxMjQwODEsIm5iZiI6MTc1NDEyMzc4MSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODAyVDA4MzYyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA5OGZiNjRhYmQ3ZjhlZDU0ZWZlNjU3NTA2ODI4ZTQ0Y2JlMzAyNzU3YzMyYzI1MWZlODY0YzBhZmU0ZmQ5YWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bnzSeaDED3NeDM9vpBl1HThLIETB4hQrd48X2brYKV4).
+![MasterHead](https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif)
+
+<h1 align="center">Hi 👋, I'm Angiravo Saha</h1>
+
 <h1 align="center">Hi 👋, I'm Angiravo Saha</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
