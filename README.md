@@ -1,6 +1,7 @@
 <p align="center">
-  <img src=(https://github.com/ANGIRAVO/ANGIRAVO/blob/main/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif) width="100%" />
+  <img src="https://raw.githubusercontent.com/ANGIRAVO/ANGIRAVO/main/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="Banner" width="100%" />
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Angiravo Saha</h1>
