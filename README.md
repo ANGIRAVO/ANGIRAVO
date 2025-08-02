@@ -1,8 +1,9 @@
-![MasterHead](https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Hello/hello.gif" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Angiravo Saha</h1>
 
-<h1 align="center">Hi 👋, I'm Angiravo Saha</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
